@@ -1,4 +1,4 @@
-# AI-PMS (Productivity Management System)
+# AI-PMS (Personal Management System)
 
 A modern, AI-powered productivity management system built with a .NET 9 backend 
 
